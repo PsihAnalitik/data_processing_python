@@ -1,5 +1,4 @@
 import json
-import pyod
 import pandas as pd
 import matplotlib.pyplot
 import seaborn
