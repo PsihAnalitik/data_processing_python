@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+openpyxl
+nltk
+pyod
+matplotlib
+seaborn
+jupyter
+ollama
